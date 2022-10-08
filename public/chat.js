@@ -1,5 +1,5 @@
 // let socket = io.connect("http://192.168.29.150:5050");
-let socket = io.connect("http://192.168.29.240:5050")
+let socket = io.connect("http://20.235.248.75:5050")
 
 var message = document.getElementById("message");
 var button = document.getElementById("send");
